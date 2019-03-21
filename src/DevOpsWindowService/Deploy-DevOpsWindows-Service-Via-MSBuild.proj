@@ -36,7 +36,7 @@
 		<Exec Command="safeServiceStop $(ServiceName) $(DeploymentServer) $(DeploymentReason)" />
 		
 		<Exec Command="safeServiceDelete $(ServiceName) $(DeploymentServer)" ContinueOnError="true" />
-		<Exec Command="sc $(DeploymentServer) create $(ServiceName) binPath= &quot;$(ServiceExecutablePath)&quot; start= delayed-auto displayName= &quot;$(ServiceDisplayName)&quot;" />
+		<Exec Command="sc $(DeploymentServer) create $(ServiceName) binPath= &quot;$(ServiceExecutablePath)&quot; start= manual displayName= &quot;$(ServiceDisplayName)&quot;" />
 		<Exec Command="sc $(DeploymentServer) description $(ServiceName) &quot;$(ServiceDescription)&quot;" />
 		<Exec Command="safeServiceStart $(ServiceName) $(DeploymentServer) " ContinueOnError="true" />
 	</Target>
