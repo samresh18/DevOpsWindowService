@@ -1,4 +1,4 @@
-﻿namespace DevOps_WindowService
+﻿namespace DevOpsWindowService
 {
     partial class Service1
     {

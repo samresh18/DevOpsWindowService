@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
 
-namespace DevOps_WindowService
+namespace DevOpsWindowService
 {
     public partial class Service1 : ServiceBase
     {

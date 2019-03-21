@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D6D38AC9-9F8C-4B7D-8194-A4E38090E27A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>DevOps_WindowService</RootNamespace>
-    <AssemblyName>DevOps_WindowService</AssemblyName>
+    <RootNamespace>DevOpsWindowService</RootNamespace>
+    <AssemblyName>DevOpsWindowService</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
