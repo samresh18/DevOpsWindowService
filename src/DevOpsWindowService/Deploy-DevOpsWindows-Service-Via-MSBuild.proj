@@ -12,7 +12,7 @@
 		<When Condition="'$(DeploymentServerName)' == ''">
 			<PropertyGroup>
 				<!-- You can choose any path here. For convenience, I'm using C: -->
-				<DeploymentFolder>D:\$(ServiceName)\</DeploymentFolder>
+				<DeploymentFolder>C:\$(ServiceName)\</DeploymentFolder>
 			</PropertyGroup>
 		</When>
 		<Otherwise>
