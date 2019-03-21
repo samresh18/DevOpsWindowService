@@ -1,0 +1,9 @@
+D:\Sam_DevOps_Projects\DevOps_WindowService\DevOps_WindowService\bin\Debug\DevOps_WindowService.exe.config
+D:\Sam_DevOps_Projects\DevOps_WindowService\DevOps_WindowService\bin\Debug\DevOps_WindowService.exe
+D:\Sam_DevOps_Projects\DevOps_WindowService\DevOps_WindowService\bin\Debug\DevOps_WindowService.pdb
+D:\Sam_DevOps_Projects\DevOps_WindowService\DevOps_WindowService\obj\Debug\DevOps_WindowService.csprojResolveAssemblyReference.cache
+D:\Sam_DevOps_Projects\DevOps_WindowService\DevOps_WindowService\obj\Debug\DevOps_WindowService.ProjectInstaller.resources
+D:\Sam_DevOps_Projects\DevOps_WindowService\DevOps_WindowService\obj\Debug\DevOps_WindowService.csproj.GenerateResource.Cache
+D:\Sam_DevOps_Projects\DevOps_WindowService\DevOps_WindowService\obj\Debug\DevOps_WindowService.csproj.CoreCompileInputs.cache
+D:\Sam_DevOps_Projects\DevOps_WindowService\DevOps_WindowService\obj\Debug\DevOps_WindowService.exe
+D:\Sam_DevOps_Projects\DevOps_WindowService\DevOps_WindowService\obj\Debug\DevOps_WindowService.pdb
